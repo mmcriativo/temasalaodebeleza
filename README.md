@@ -1,3 +1,3 @@
-Site Modelo de estudo para Nicho de Beleza:
+#Site Modelo de estudo para Nicho de Salão de Beleza - Hairdresser
 
-Salão de Beleza e Barbearia
+#Projeto em desenvolvimento
